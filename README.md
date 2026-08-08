@@ -24,4 +24,4 @@ An automated Windows System Maintenance utility built using PowerShell and hoste
 1. Open **PowerShell as Administrator**.
 2. Run the following command:
    ```powershell
-   irm [https://raw.githubusercontent.com/ritesh3101999/AdvanceDiskClearnup/main/OptionsDiskCleanup.ps1](https://raw.githubusercontent.com/ritesh3101999/AdvanceDiskClearnup/main/OptionsDiskCleanup.ps1) | iex
+   irm https://raw.githubusercontent.com/ritesh3101999/AdvanceDiskClearnup/main/OptionsDiskCleanup.ps1 | iex
